@@ -9,6 +9,7 @@ DELIVERABLES INCLUDED
 
 1) Working codd URL(s):
    https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/employee_demo.php
+   https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/index.php
    https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/read_employees.php
    https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/create_employee.php
    https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/update_employee.php
@@ -28,6 +29,7 @@ DELIVERABLES INCLUDED
 
 4) Git history screenshots (optional):
    link: https://github.com/TanuskaB/web-cw6 
+   git-history-1.png, git-history-2.png
 
 ─────────────────────────────────────────
 I verified all links and files before submission.
