@@ -1,0 +1,34 @@
+CW-06 Submission — PHP + MySQL
+Student Name:  Tanuska Biswakarma
+Student ID:    002682850
+Date:          April 26 2026
+
+─────────────────────────────────────────
+DELIVERABLES INCLUDED
+─────────────────────────────────────────
+
+1) Working codd URL(s):
+   https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/employee_demo.php
+   https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/read_employees.php
+   https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/create_employee.php
+   https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/update_employee.php
+   https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/delete_employee.php
+   https://codd.cs.gsu.edu/~tbiswakarma1/wp/cw/cw5/db.php
+
+  
+
+2) Source package:
+   ZIP file: cw6_Tanuska.zip
+  Contents: PHP files + employee_demo.php + css/style.css + sql-notes.txt
+
+3) Word document (if required):
+   CW06_Reflection_Tanuska_Biswakarma.docx
+   Tanuska_Biswakarma_CW-06_Step_2_Reading_Comprehension_Check.docx
+
+
+4) Git history screenshots (optional):
+
+─────────────────────────────────────────
+I verified all links and files before submission.
+All CRUD operations tested on codd server.
+─────────────────────────────────────────
