@@ -27,6 +27,7 @@ DELIVERABLES INCLUDED
 
 
 4) Git history screenshots (optional):
+   link: https://github.com/TanuskaB/web-cw6 
 
 ─────────────────────────────────────────
 I verified all links and files before submission.
